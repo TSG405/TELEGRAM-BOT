@@ -1,0 +1,7 @@
+To create a chatbot on Telegram, you need to contact the ** BotFather ** , which is essentially a bot used to create other bots.
+
+The command you need is   "/newbot"  ,which leads to the following steps to create your bot.
+Your bot should have two attributes: a name and a username. The name will show up for your bot, while the username will be used for mentions and sharing.
+
+After choosing your bot name and username  -- which must end with “bot”  -- you will get a message containing your access TOKEN, 
+and you’ll obviously need to save your access TOKEN and USERNAME for later, as you will be needing them frequently.
