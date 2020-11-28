@@ -1,0 +1,32 @@
+1. Python IDLE (3.8+) with TELGRAM-BOT MODULE (v 12.0+)
+2. TELEGRAM A/C
+
+-- THE ABOVE requirements are based on LOCAL HOST Server programming! -----------------
+
+
+
+
+***** Python-telegram-bot 13.0 SETUP *****
+
+** Telegram API support **
+All types and methods of the Telegram Bot API 4.8 are supported here.
+
+****** Installing.... ******
+** You can install or upgrade python-telegram-bot with: **
+
+
+$ pip install python-telegram-bot --upgrade
+
+
+** Or you can install from source with: **
+   
+
+$ git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
+$ cd python-telegram-bot
+$ python setup.py install
+
+
+** In case you have a previously cloned local repository already, you should initialize the added urllib3 submodule before installing with: **
+   
+
+$ git submodule update --init --recursive
