@@ -1,0 +1,4 @@
+1. Python IDLE (3.8+)
+2. TELEGRAM A/C
+
+-- THE ABOVE requirements are based on LOCAL HOST Server programming!
