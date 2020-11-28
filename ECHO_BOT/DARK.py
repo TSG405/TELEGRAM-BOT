@@ -31,7 +31,7 @@ def error(update, context):
 
 def main():
     
-    updater = Updater("TOKEN", use_context=True)
+    updater = Updater("TOKEN", use_context=True)  # Put the Telegram-bot token.
 
     
     dp = updater.dispatcher
