@@ -1,0 +1,21 @@
+1. Python IDLE (3.6+) with telepot and pytelegrambotapi MODULE (v 11.0+)
+2. TELEGRAM A/C
+
+-- THE ABOVE requirements are based on LOCAL HOST Server programming! ---------------
+
+
+
+***** Python-telepot SETUP *****
+
+$ pip install telepot
+$ pip install pytelegrambotapi
+
+********************************
+
+
+For "ONLINE Server Hosting" , please follow the steps, mentioned in << README.md >> file....
+
+Meanwhile,
+To clear webhook manually, as you may need it sometimes! Use this link:---
+
+https://api.telegram.org/bot<TOKEN>/setWebhook?url=
